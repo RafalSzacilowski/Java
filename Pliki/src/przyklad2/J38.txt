@@ -1,0 +1,4 @@
+marek;kowalski;222
+kasia;nowak;23334
+magda;mazur;22323
+arek;nowak;2312312

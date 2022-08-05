@@ -1,0 +1,15 @@
+*.class
+
+/.metadata/
+/.settings/
+/RemoteSystemsTempFiles/
+/Servers/
+/.gitattributes
+
+# w razie gdyby ktos zaimportowal cale repo jako projekt
+/.project
+/.classpath
+/bin/
+/*.iml
+/.idea/
+/out/
